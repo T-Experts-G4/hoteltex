@@ -55,7 +55,10 @@ Ao todo, nosso projeto envolveu 10 pessoas em um curso de fullstack, que trabalh
 - <img height="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> HTML 5
 - <img height="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> Java
 - <img height="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> MySQL
-- <img height="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/h2/h2-original.svg" /> H2
+
+### Database utiizado para ambiente de desenvolviento e testes.
+
+- H2 Database Engine 
 
 
 ## <img height="35px" src="https://img.icons8.com/fluency/96/null/requirement.png"/> Pré-requisitos
