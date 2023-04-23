@@ -90,6 +90,10 @@ git clone https://github.com/T-Experts-G4/hoteltex-backend
 ```bash
 cd hoteltex-backend/
 ```
+> Execultando o projeto:
+```bash
+./mvnw spring-boot:run
+```
 
 ## <img height="30px" src="https://cdn-icons-png.flaticon.com/512/166/166258.png"/> Colaboradores
 
