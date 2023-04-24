@@ -73,7 +73,7 @@ Ao todo, nosso projeto envolveu 10 pessoas em um curso de fullstack, que trabalh
 
 > No terminal, clone o projeto:
 ```bash
-git clone https://github.com/T-Experts-G4/Hotel-T-Ex.git
+git clone https://github.com/T-Experts-G4/hoteltex-frontend
 ```
 > Entre na raiz do projeto:
 ```bash
